@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    background-color: rgb(2, 137, 255);
+}
+
+p.css {
+    font-weight: bold;
+    font-family:"Arial", Helvetica, sans-serif;
+    font-size: 150%;
+    color: hsl(330, 100%, 50%);
+}
+.css{
+    display: flex;
+    justify-content: center;
+}
+#idUm{
+    background: blue;
+}
+#IdDois{
+    background: red;
+}
+#IdTrês{
+    background: green;
+}
+#IdQuatro{
+    background: yellow;
+}
+#Textosemestilo1{
+    background-color: blueviolet;
+}
+#Textosemestilo2{
+    background-color: aqua;
+}
+#Textosemestilo3{
+    background-color: aliceblue;
+}
+#Textosemestilo4{
+    background-color: aquamarine;
+}
